@@ -15,7 +15,7 @@ Systems that give management clear visibility on demand — client reporting tra
 | [Google Ads Dashboard](#Google-Ads-Dashboard) | 🏢 Work Project |
 | [YouTube Analytics Reporting Pipeline](#YouTube-Analytics-Reporting-Pipeline) | 🏢 Work Project |
 | [ActiveCampaign API Reporting Automation](#ActiveCampaign-API-Reporting-Automation) | 🏢 Work Project |
-| [Closer & Setter Reporting Dashboard](#Closer-&-Setter-Reporting-Dashboard) | 🏢 Work Project |
+| [Closer and Setter Reporting Dashboard](#Closer-and-Setter-Reporting-Dashboard) | 🏢 Work Project |
 
 
 
@@ -203,7 +203,7 @@ E --> F["📈 Google Sheets Report<br/>or Looker Studio"]
 
 ---
 
-## Closer & Setter Reporting Dashboard
+## Closer and Setter Reporting Dashboard
 
 **Type:** WORK PROJECT *(Team Project)*
 
