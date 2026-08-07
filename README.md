@@ -8,14 +8,18 @@ Systems that give management clear visibility on demand — client reporting tra
 
 ## What's In This Repository
 
-| Project | Type |
-|---|---|
-| Client Reporting Management System | WORK PROJECT |
-| Facebook Ads Dashboard | WORK PROJECT |
-| Google Ads Dashboard | WORK PROJECT |
-| YouTube Analytics Reporting Pipeline | WORK PROJECT |
-| ActiveCampaign API Reporting Automation | WORK PROJECT |
-| Closer & Setter Reporting Dashboard | WORK PROJECT |
+## Featured Projects
+
+| Project | Project Type |
+|---------|--------------|
+| [Client Reporting Management System](#Client-Reporting-Management-System) | 🏢 Work Project |
+| [Facebook Ads Dashboard](#Facebook-Ads-Dashboard) | 🏢 Work Project |
+| [Google Ads Dashboard](#Google-Ads-Dashboard) | 🏢 Work Project |
+| [YouTube Analytics Reporting Pipeline](#YouTube-Analytics-Reporting-Pipeline) | 🏢 Work Project |
+| [ActiveCampaign API Reporting Automation](#ActiveCampaign-API-Reporting-Automation) | 🏢 Work Project |
+| [Closer & Setter Reporting Dashboard](#Closer-&-Setter-Reporting-Dashboard) | 🏢 Work Project |
+
+
 
 ---
 
