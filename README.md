@@ -240,4 +240,5 @@ If you're looking for a simpler way to manage repetitive work, reporting, or bus
 
 ---
 
-[⬅ Back to Profile](https://github.com/mitchsanchez29) · [🔁 Business Automation](../business-automation) · [💰 Finance & Operations](../finance-operations)
+[⬅ Back to Profile](https://github.com/mitchsanchez29) · [🔁 Business Automation](https://github.com/mitchsanchez29/business-automation) · [💰 Finance & Operations](https://github.com/mitchsanchez29/finance-operations)
+
