@@ -142,6 +142,7 @@ Systems that give management clear visibility on demand — client reporting tra
 
 <img width="695" height="280" alt="Screenshot 2026-06-05 181706" src="https://github.com/user-attachments/assets/865afe3c-22ba-4a90-8a53-c5bbeef1a12b" />
 
+
 **Screenshots**
 
 <img width="792" height="462" alt="Screenshot 2026-08-07 170923" src="https://github.com/user-attachments/assets/3b8f27a3-8760-4b10-90fb-2e9fa9ba3d52" />
@@ -165,10 +166,22 @@ Systems that give management clear visibility on demand — client reporting tra
 
 **My Solution:** Google Apps Script connects to the ActiveCampaign API, retrieves campaign, lead, and sales data, processes the JSON response, and automatically updates Google Sheets. For larger exports, the same pipeline also handles CSV files up to 156MB through chunked processing into a central Master Data sheet. Some clients prefer reports in Google Sheets instead of Looker Studio — the reporting format is built to match what each client actually wants.
 
-**Workflow**
+**Screenshots:**
 
-*Future Workflow Diagram*
+```mermaid
+flowchart LR
 
+A["📡 ActiveCampaign API"] -->|Pull campaign, lead & sales data| B["⚙️ Google Apps Script"]
+
+B --> C["📄 Google Sheets<br/>Master Data"]
+
+C --> D["🧹 Process & Organize Data"]
+
+D --> E["📊 Summary Report"]
+
+E --> F["📈 Google Sheets Report<br/>or Looker Studio"]
+
+```
 **Key Features:**
 - Direct API connection to ActiveCampaign for campaign, lead, and sales data
 - Automatic JSON processing into Google Sheets
@@ -180,8 +193,7 @@ Systems that give management clear visibility on demand — client reporting tra
 | **📥 ActiveCampaign API Data** | **📊 Leads & Sales Summary** |
 |--------------------------------|------------------------------|
 | <img width="1430" height="302" alt="Screenshot 2026-08-07 113332" src="https://github.com/user-attachments/assets/1418ee82-7741-4abf-b0e5-4865b4a2050d" /> | <img width="871" height="708" alt="Screenshot 2026-08-07 113421" src="https://github.com/user-attachments/assets/41b73324-0537-4439-ae7f-c23e10c87d4c" /> |
-| **API Data Import** – Lead and sales data are automatically pulled from the ActiveCampaign API and stored in Google Sheets. | **Summary Report** – Select a date range to instantly view total leads, total sales, and a daily breakdown for reporting. |
-pulled data from api
+| **API Data Import** – Lead and sales data are automatically pulled from the ActiveCampaign API and stored in Google Sheets. | **Summary Report** – Select a date range to instantly view total leads, total sales, and a daily breakdown for reporting.
 
 **Business Questions Answered:**
 - What's the current campaign, lead, and sales performance from ActiveCampaign?
@@ -209,8 +221,7 @@ pulled data from api
 
 **Screenshots**
 
-<img width="572" height="526" alt="Phone setter" src="https://github.com/user-attachments/assets/7657ecba-08f5-4186-8455-ea9ecd9180fc" />
-<img width="623" height="462" alt="Screenshot 2026-06-09 161007" src="https://github.com/user-attachments/assets/5b1a732d-2bb6-435b-adb8-ac3127fb9196" />
+<img width="572" height="526" alt="Phone setter" src="https://github.com/user-attachments/assets/7657ecba-08f5-4186-8455-ea9ecd9180fc" /> <img width="623" height="462" alt="Screenshot 2026-06-09 161007" src="https://github.com/user-attachments/assets/5b1a732d-2bb6-435b-adb8-ac3127fb9196" />
 
 **Business Questions Answered:**
 - What did the team close and collect today?
@@ -218,6 +229,16 @@ pulled data from api
 **Business Value:** Clean, consistent daily sales data and a reliable performance report management could actually trust.
 
 **Tech Stack:** `Airtable` `Zapier` `Google Sheets` `Looker Studio`
+
+---
+
+## Let's Connect
+
+If you're looking for a simpler way to manage repetitive work, reporting, or business operations, let's talk about what could work for your team.
+
+📧 **Email:** your@email.com
+
+💼 **LinkedIn:** https://linkedin.com/in/yourprofile
 
 ---
 
