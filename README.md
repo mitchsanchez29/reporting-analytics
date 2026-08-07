@@ -6,8 +6,6 @@ Systems that give management clear visibility on demand — client reporting tra
 
 ---
 
-## What's In This Repository
-
 ## Featured Projects
 
 | Project | Project Type |
