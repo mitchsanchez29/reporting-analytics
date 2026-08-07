@@ -144,7 +144,7 @@ Systems that give management clear visibility on demand — client reporting tra
 
 **Screenshots**
 
-<img width="1366" height="768" alt="5" src="https://github.com/user-attachments/assets/cfbce0c0-d918-44aa-a2b20b824374" />
+<img width="792" height="462" alt="Screenshot 2026-08-07 170923" src="https://github.com/user-attachments/assets/3b8f27a3-8760-4b10-90fb-2e9fa9ba3d52" />
 
 **Business Questions Answered:**
 - How is channel performance trending over time?
@@ -177,7 +177,11 @@ Systems that give management clear visibility on demand — client reporting tra
 
 **Screenshots**
 
-*Screenshot Coming Soon*
+| **📥 ActiveCampaign API Data** | **📊 Leads & Sales Summary** |
+|--------------------------------|------------------------------|
+| <img width="1430" height="302" alt="Screenshot 2026-08-07 113332" src="https://github.com/user-attachments/assets/1418ee82-7741-4abf-b0e5-4865b4a2050d" /> | <img width="871" height="708" alt="Screenshot 2026-08-07 113421" src="https://github.com/user-attachments/assets/41b73324-0537-4439-ae7f-c23e10c87d4c" /> |
+| **API Data Import** – Lead and sales data are automatically pulled from the ActiveCampaign API and stored in Google Sheets. | **Summary Report** – Select a date range to instantly view total leads, total sales, and a daily breakdown for reporting. |
+pulled data from api
 
 **Business Questions Answered:**
 - What's the current campaign, lead, and sales performance from ActiveCampaign?
