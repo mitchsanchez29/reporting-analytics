@@ -236,9 +236,9 @@ E --> F["📈 Google Sheets Report<br/>or Looker Studio"]
 
 If you're looking for a simpler way to manage repetitive work, reporting, or business operations, let's talk about what could work for your team.
 
-📧 **Email:** [sanchezmitch77@gmail.com](mailto:sanchezmitch77@gmail.com)
+📧 **[Email](mailto:sanchezmitch77@gmail.com)**
 
-💼 **LinkedIn:** [Michelle Sanchez](https://www.linkedin.com/in/michelle29)
+💼 **[LinkedIn](https://www.linkedin.com/in/michelle29/)**
 
 ---
 
