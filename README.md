@@ -236,7 +236,7 @@ E --> F[" Google Sheets Report<br/>or Looker Studio"]
 
 **Tech Stack:** `Airtable` `Zapier` `Google Sheets` `Looker Studio`
 
-![Banner](reporting-analytics-banner.svg)
+[![Back to Top](https://img.shields.io/badge/⬆_Back_to_Top-14b8a6?style=flat-square)](#reporting--analytics)
 
 ---
 
