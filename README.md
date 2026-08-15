@@ -236,6 +236,8 @@ E --> F[" Google Sheets Report<br/>or Looker Studio"]
 
 **Tech Stack:** `Airtable` `Zapier` `Google Sheets` `Looker Studio`
 
+![Banner](reporting-analytics-banner.svg)
+
 ---
 
 ## Let's Connect
