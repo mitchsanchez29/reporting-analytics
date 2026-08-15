@@ -1,6 +1,4 @@
-# 📊 Reporting & Analytics
-
-Systems that give management clear visibility on demand — client reporting trackers, ad performance dashboards, and analytics pipelines.
+![Banner](reporting-analytics-banner.svg)
 
 [![Back to Profile](https://img.shields.io/badge/←_Back_to_Profile-0f172a?style=for-the-badge)](https://github.com/mitchsanchez29)
 [![Portfolio](https://img.shields.io/badge/Portfolio-14b8a6?style=for-the-badge)](https://michelle-systems-studio.lovable.app)
