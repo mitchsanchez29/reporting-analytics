@@ -2,22 +2,22 @@
 
 Systems that give management clear visibility on demand — client reporting trackers, ad performance dashboards, and analytics pipelines.
 
-[⬅ Back to Profile](https://github.com/mitchsanchez29) · [🔁 Business Automation](https://github.com/mitchsanchez29/business-automation) · [💰 Finance & Operations](https://github.com/mitchsanchez29/finance-operations)
+[![Back to Profile](https://img.shields.io/badge/←_Back_to_Profile-0f172a?style=for-the-badge)](https://github.com/mitchsanchez29)
+[![Portfolio](https://img.shields.io/badge/Portfolio-14b8a6?style=for-the-badge)](https://michelle-systems-studio.lovable.app)
+[![Business Automation](https://img.shields.io/badge/Business_Automation-14b8a6?style=for-the-badge)](https://github.com/mitchsanchez29/business-automation)
+[![Finance & Operations](https://img.shields.io/badge/Finance_%26_Operations-14b8a6?style=for-the-badge)](https://github.com/mitchsanchez29/finance-operations)
 
 ---
+##  Featured Projects
 
-## Featured Projects
-
-| Project | Project Type |
-|---------|--------------|
-| [Client Reporting Management System](#Client-Reporting-Management-System) | 🏢 Work Project |
-| [Facebook Ads Dashboard](#Facebook-Ads-Dashboard) | 🏢 Work Project |
-| [Google Ads Dashboard](#Google-Ads-Dashboard) | 🏢 Work Project |
-| [YouTube Analytics Reporting Pipeline](#YouTube-Analytics-Reporting-Pipeline) | 🏢 Work Project |
-| [ActiveCampaign API Reporting Automation](#ActiveCampaign-API-Reporting-Automation) | 🏢 Work Project |
-| [Closer and Setter Reporting Dashboard](#Closer-and-Setter-Reporting-Dashboard) | 🏢 Work Project |
-
-
+| # | Project | Type | Tech Stack |
+|---|---------|------|------------|
+| 01 | [Client Reporting Management System](#Client-Reporting-Management-System) |  Work Project | Google Sheets · Apps Script |
+| 02 | [Facebook Ads Dashboard](#Facebook-Ads-Dashboard) |  Work Project | Facebook Ads API · Looker Studio |
+| 03 | [Google Ads Dashboard](#Google-Ads-Dashboard) |  Work Project | Google Ads · Looker Studio |
+| 04 | [YouTube Analytics Reporting Pipeline](#YouTube-Analytics-Reporting-Pipeline) |  Work Project | YouTube API · Apps Script |
+| 05 | [ActiveCampaign API Reporting Automation](#ActiveCampaign-API-Reporting-Automation) |  Work Project | ActiveCampaign API · Apps Script |
+| 06 | [Closer and Setter Reporting Dashboard](#Closer-and-Setter-Reporting-Dashboard) |  Work Project | Airtable · Zapier · Looker Studio |
 
 ---
 
@@ -56,6 +56,8 @@ Systems that give management clear visibility on demand — client reporting tra
 
 **Tech Stack:** `Google Sheets` `Google Apps Script` `Google Workspace`
 
+[![Back to Top](https://img.shields.io/badge/⬆_Back_to_Top-14b8a6?style=flat-square)](#reporting--analytics)
+
 ---
 
 ## Facebook Ads Dashboard
@@ -90,6 +92,8 @@ Systems that give management clear visibility on demand — client reporting tra
 **Business Value:** No more manual pulls from Ads Manager — the team checks one live dashboard instead of waiting on a report.
 
 **Tech Stack:** `Facebook Ads API` `OAuth Token` `Partner Connector` `Looker Studio`
+
+[![Back to Top](https://img.shields.io/badge/⬆_Back_to_Top-14b8a6?style=flat-square)](#reporting--analytics)
 
 ---
 
@@ -126,6 +130,8 @@ Systems that give management clear visibility on demand — client reporting tra
 
 **Tech Stack:** `Google Ads` `Google Analytics` `Looker Studio` `Native Connector` `PDF Report`
 
+[![Back to Top](https://img.shields.io/badge/⬆_Back_to_Top-14b8a6?style=flat-square)](#reporting--analytics)
+
 ---
 
 ## YouTube Analytics Reporting Pipeline
@@ -152,6 +158,8 @@ Systems that give management clear visibility on demand — client reporting tra
 
 **Tech Stack:** `YouTube Analytics API` `Apps Script` `UrlFetchApp` `Google Sheets` `Looker Studio`
 
+[![Back to Top](https://img.shields.io/badge/⬆_Back_to_Top-14b8a6?style=flat-square)](#reporting--analytics)
+
 ---
 
 ## ActiveCampaign API Reporting Automation
@@ -171,13 +179,13 @@ flowchart LR
 
 A["📡 ActiveCampaign API"] -->|Pull campaign, lead & sales data| B["⚙️ Google Apps Script"]
 
-B --> C["📄 Google Sheets<br/>Master Data"]
+B --> C[" Google Sheets<br/>Master Data"]
 
-C --> D["🧹 Process & Organize Data"]
+C --> D[" Process & Organize Data"]
 
-D --> E["📊 Summary Report"]
+D --> E[" Summary Report"]
 
-E --> F["📈 Google Sheets Report<br/>or Looker Studio"]
+E --> F[" Google Sheets Report<br/>or Looker Studio"]
 
 ```
 **Key Features:**
@@ -200,6 +208,8 @@ E --> F["📈 Google Sheets Report<br/>or Looker Studio"]
 **Business Value:** Eliminates manual exports, gets reports out faster, improves reporting accuracy, and gives clients the reporting format they actually want.
 
 **Tech Stack:** `ActiveCampaign API` `Google Apps Script` `JSON` `Google Sheets` `Looker Studio`
+
+[![Back to Top](https://img.shields.io/badge/⬆_Back_to_Top-14b8a6?style=flat-square)](#reporting--analytics)
 
 ---
 
@@ -234,11 +244,13 @@ E --> F["📈 Google Sheets Report<br/>or Looker Studio"]
 
 If you're looking for a simpler way to manage repetitive work, reporting, or business operations, let's talk about what could work for your team.
 
-📧 **[Email](mailto:sanchezmitch77@gmail.com)**
-
-💼 **[LinkedIn](https://www.linkedin.com/in/michelle29/)**
+[![Email](https://img.shields.io/badge/📧_Email-14b8a6?style=for-the-badge)](mailto:sanchezmitch77@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michelle29/)
 
 ---
 
-[⬅ Back to Profile](https://github.com/mitchsanchez29) · [🔁 Business Automation](https://github.com/mitchsanchez29/business-automation) · [💰 Finance & Operations](https://github.com/mitchsanchez29/finance-operations)
+[![Back to Profile](https://img.shields.io/badge/←_Back_to_Profile-0f172a?style=for-the-badge)](https://github.com/mitchsanchez29)
+[![Portfolio](https://img.shields.io/badge/Portfolio-14b8a6?style=for-the-badge)](https://michelle-systems-studio.lovable.app)
+[![Business Automation](https://img.shields.io/badge/Business_Automation-14b8a6?style=for-the-badge)](https://github.com/mitchsanchez29/business-automation)
+[![Finance & Operations](https://img.shields.io/badge/Finance_%26_Operations-14b8a6?style=for-the-badge)](https://github.com/mitchsanchez29/finance-operations)
 
