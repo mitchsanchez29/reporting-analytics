@@ -1,0 +1,10 @@
+<svg width="1200" height="300" viewBox="0 0 1200 300" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="300" fill="#0f172a"/>
+  <rect x="0" y="0" width="1200" height="6" fill="#14b8a6"/>
+  <rect x="0" y="294" width="1200" height="6" fill="#14b8a6"/>
+  <text x="60" y="90" font-family="Consolas, 'Liberation Mono', monospace" font-size="14" letter-spacing="2" fill="#14b8a6">REPORTING &amp; ANALYTICS</text>
+
+  <text x="58" y="170" font-family="Arial, Helvetica, sans-serif" font-size="44" font-weight="800" fill="#f8fafc" letter-spacing="-1">Reporting &amp; Analytics</text>
+  <text x="58" y="215" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" fill="#94a3b8" letter-spacing="0">Systems that give management clear visibility on demand — client</text>
+  <text x="58" y="245" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" fill="#94a3b8" letter-spacing="0">reporting trackers, ad performance dashboards, and analytics pipelines.</text>
+</svg>
