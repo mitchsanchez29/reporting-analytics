@@ -1,7 +1,7 @@
 ![Banner](reporting-analytics-banner.svg)
 
 [![Back to Profile](https://img.shields.io/badge/←_Back_to_Profile-0f172a?style=for-the-badge)](https://github.com/mitchsanchez29)
-[![Portfolio](https://img.shields.io/badge/Portfolio-14b8a6?style=for-the-badge)](https://michelle-systems-studio.lovable.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Site-14B8A6?style=for-the-badge&logo=vercel&logoColor=white)](https://msanchez29.lovable.app)
 [![Business Automation](https://img.shields.io/badge/Business_Automation-14b8a6?style=for-the-badge)](https://github.com/mitchsanchez29/business-automation)
 [![Finance & Operations](https://img.shields.io/badge/Finance_%26_Operations-14b8a6?style=for-the-badge)](https://github.com/mitchsanchez29/finance-operations)
 
@@ -250,7 +250,7 @@ If you're looking for a simpler way to manage repetitive work, reporting, or bus
 ---
 
 [![Back to Profile](https://img.shields.io/badge/←_Back_to_Profile-0f172a?style=for-the-badge)](https://github.com/mitchsanchez29)
-[![Portfolio](https://img.shields.io/badge/Portfolio-14b8a6?style=for-the-badge)](https://michelle-systems-studio.lovable.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Site-14B8A6?style=for-the-badge&logo=vercel&logoColor=white)](https://msanchez29.lovable.app)
 [![Business Automation](https://img.shields.io/badge/Business_Automation-14b8a6?style=for-the-badge)](https://github.com/mitchsanchez29/business-automation)
 [![Finance & Operations](https://img.shields.io/badge/Finance_%26_Operations-14b8a6?style=for-the-badge)](https://github.com/mitchsanchez29/finance-operations)
 
