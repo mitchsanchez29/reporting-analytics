@@ -52,6 +52,14 @@
 
 **Business Value:** No more missed reports, a clean audit trail of reporting history, and less time spent tracking who's done and who isn't.
 
+### Result
+
+| Before | After |
+|---|---|
+| Manual tracking, easy to miss reports | Zero missed reports |
+| No visibility into reporting history | Full audit trail per client |
+| Ad-hoc manual checking | One weekly check-in |
+
 **Tech Stack:** `Google Sheets` `Google Apps Script` `Google Workspace`
 
 [![Back to Top](https://img.shields.io/badge/⬆_Back_to_Top-14b8a6?style=flat-square)](#reporting--analytics)
@@ -87,7 +95,9 @@
 - How is ad spend performing this week compared to last?
 - Which campaigns are actually driving results?
 
-**Business Value:** No more manual pulls from Ads Manager — the team checks one live dashboard instead of waiting on a report.
+### Result
+**No more manual exports.** Live dashboard replaced weekly manual pulls 
+from Ads Manager.
 
 **Tech Stack:** `Facebook Ads API` `OAuth Token` `Partner Connector` `Looker Studio`
 
@@ -124,7 +134,8 @@
 - Are we trending up or down compared to last week, last month, or last year?
 - Which time period tells the clearest story for a client update?
 
-**Business Value:** Faster, clearer performance conversations with clients or management — no rebuilding the comparison manually every time.
+### Result
+**One report, three views.** WoW, MoM, and YTD comparisons that used to require manual rebuilding, now generate automatically.
 
 **Tech Stack:** `Google Ads` `Google Analytics` `Looker Studio` `Native Connector` `PDF Report`
 
@@ -152,7 +163,8 @@
 **Business Questions Answered:**
 - How is channel performance trending over time?
 
-**Business Value:** Ongoing performance history instead of one-off manual checks, with a live dashboard for tracking trends.
+### Result
+**Daily automated tracking** replaced manual channel performance checks.
 
 **Tech Stack:** `YouTube Analytics API` `Apps Script` `UrlFetchApp` `Google Sheets` `Looker Studio`
 
@@ -203,7 +215,9 @@ E --> F[" Google Sheets Report<br/>or Looker Studio"]
 - What's the current campaign, lead, and sales performance from ActiveCampaign?
 - How is the reporting broken down for this specific client's preferred format?
 
-**Business Value:** Eliminates manual exports, gets reports out faster, improves reporting accuracy, and gives clients the reporting format they actually want.
+### Result
+**Zero manual exports.** Client reporting, in the format each client 
+prefers, now generates automatically from live API data.
 
 **Tech Stack:** `ActiveCampaign API` `Google Apps Script` `JSON` `Google Sheets` `Looker Studio`
 
@@ -232,7 +246,9 @@ E --> F[" Google Sheets Report<br/>or Looker Studio"]
 **Business Questions Answered:**
 - What did the team close and collect today?
 
-**Business Value:** Clean, consistent daily sales data and a reliable performance report management could actually trust.
+### Result
+**Consistent daily reporting** management could actually trust, replacing 
+manually cleaned and structured data.
 
 **Tech Stack:** `Airtable` `Zapier` `Google Sheets` `Looker Studio`
 
